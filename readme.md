@@ -1,6 +1,6 @@
-# Awesome OSS Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome OSS Infrastructure and Funding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome resources for funding open source projects and authors.
+A curated list of awesome resources for infrastructure and funding to support open source projects and authors ... funding really matters since money is a indication of earnest interest --- but, we cannot forget, that it's not just about *funding* ... there's the general infrasture and things like [guidelines or best practices for open source developers](https://opensource.guide/) and [exploration of what people are doing](https://github.com/explore) because it is kind of important to always be trying to build upon and extend what others are doing ... ultimately, we probably need to do a better job putting the outlines for AWESOME lists of material in [some sort of Grafana dashboard](https://github.com/topics/grafana-dashboards).
 
 
 ## Contents
